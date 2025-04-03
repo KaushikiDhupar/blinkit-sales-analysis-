@@ -28,14 +28,14 @@ Used statistical analysis and data modeling to identify significant trends and p
 Applied time series analysis to forecast potential future sales.
 Analyzed correlations between factors like time of day, customer location, and product preferences.
 Solution:
-Through the analysis, several key insights were uncovered:!
+Through the analysis, several key insights were uncovered:
 
 
 Top Products and Categories: Certain products and categories, such as fresh produce and dairy, had consistently high sales across multiple regions.
 Peak Sales Times: The majority of orders were placed during evenings and weekends, suggesting a trend for convenience-driven shopping.
 location type preferences: Differences in product preferences were observed across tier1,tier2,tier3, with middle tier showing higher sales for particular categories.
 Seasonal Trends: Notable spikes in certain product categories were found during festivals and holidays, suggesting an opportunity for seasonal promotions.
-          [powerbi_screenshot](https://github.com/user-attachments/assets/ba48cd30-17db-401a-b547-df374e0d472e)
+          ![powerbi_screenshot](https://github.com/user-attachments/assets/ba48cd30-17db-401a-b547-df374e0d472e)
   
  
   
